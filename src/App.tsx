@@ -51,7 +51,6 @@ function App() {
       <Grid
         container
         direction="row"
-        sx={{ height: "100%" }}
         justifyContent="center"
         alignItems="center"
         spacing={4}
